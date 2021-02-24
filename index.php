@@ -3,7 +3,7 @@
                 <title> homepage </title>
 </head>
 <body background=”hope.jpg”>
-<font face=”Cooper Black”, size=”24”, color=”white”>
+<font face=”calibri(body)” size=”24” text=”white”>
 <align=”center”>
 TODAY AND TOMORROW
   </center>
