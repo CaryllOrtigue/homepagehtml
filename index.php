@@ -1,11 +1,15 @@
 <html>
 <head>
-                <title> homepage </title>
+        <title> homepage </title>
 </head>
-<body background="hope.jpg" text="white">
-<h1 align="center">
-TODAY AND TOMORROW
+
+<body background="hope.jpg">
+<font face="verdana" color="white" face="24">
+<p align="center">
+<b>TODAY AND TOMORROW</b>
+
 </center>
-</h1>
+</font>
+</p>
 </body>
 </hmtl>
